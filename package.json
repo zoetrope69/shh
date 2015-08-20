@@ -14,7 +14,7 @@
     "ssh",
     "animation"
   ],
-  "author": "Zac Colley <hi@zaccolley.com> (http://www.zaccolley.com)",
+  "author": "Zac Colley <hi@zaccolley.com> (http://zaccolley.com/)",
   "license": "ISC",
   "dependencies": {
     "ascii-animation": "^1.0.0",
