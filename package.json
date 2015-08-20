@@ -1,0 +1,32 @@
+{
+  "name": "shh",
+  "version": "1.0.0",
+  "description": "I kept typing shh instead of ssh",
+  "main": "shh.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "shh": "app.js"
+  },
+  "keywords": [
+    "shh",
+    "ssh",
+    "animation"
+  ],
+  "author": "Zac Colley <hi@zaccolley.com> (http://www.zaccolley.com)",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-animation": "^1.0.0",
+    "keypress": "^0.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaccolley/shh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zaccolley/shh/issues"
+  },
+  "homepage": "https://github.com/zaccolley/shh#readme"
+}
