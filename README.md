@@ -9,3 +9,6 @@ maybe you did mean to type ssh, but maybe... just maybe you wanted to explore th
 this package does all this and more.
 
 *shh*
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/zaccolley/shh.svg)](https://greenkeeper.io/)
